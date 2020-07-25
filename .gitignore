@@ -1,0 +1,10 @@
+desktop.ini
+.ipynb_checkpoints/
+asmnt/MLP303/asm1/assigment/data/home_credit_data.pickle
+asmnt/MLP303/asm2/assigment/data/home_credit_data.pickle
+asmnt/MLP304/asm2/assigment/train.csv
+example_project/deep-feature-for-images-classification/using-sklearn/data/image_test_data.csv
+example_project/document-retrieval/using-sklearn/data/people_wiki.csv
+example_project/song-recommendation-system/using-sklearn/data/song_data.csv
+lab_ex/classification/data/cs231n.zip
+lab_ex/clustering_retrieval/people_wiki.csv
